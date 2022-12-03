@@ -1,0 +1,12 @@
+CoolDown:
+  enable: true
+  cd: 5
+Delay:
+  enable: true
+  cd : 5
+RandomTP:
+  limit:
+    x: 5000
+    z: 5000
+  disableWorld:
+    - world
